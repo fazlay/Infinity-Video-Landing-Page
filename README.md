@@ -1,3 +1,6 @@
+![video Preview](https://github.com/fazlay/Infinity-Video-Landing-Page/blob/main/Functionality.gif)
+![alt text](https://github.com/fazlay/Infinity-Video-Landing-Page/blob/main/screenshot-localhost_3000-2021.01.21-01_33_50.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
